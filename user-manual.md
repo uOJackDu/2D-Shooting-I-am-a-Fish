@@ -1,17 +1,18 @@
 # I am a Fish
 
-### By Jack Du
+A 2D shooting game
 
-A 2D-shooting game
+By *Jack Du*
+
 
 ---
 
 ## Movements and Shooting
 
 This game is a 2D shooting game.  
-You are a small koi fish, and you can move using the keys W, A, S, and D, or UP, LEFT, DOWN, and RIGHT. Both set of keys are ok.
+You are a small koi fish, and you can move using the keys **W, A, S, D** or **UP, LEFT, DOWN, RIGHT**.
 
-You can shoot a bubble to defeat enemies when you press SPACE.  
+You can shoot a bubble to defeat enemies when you press **SPACE**.  
 You need to wait for some time before you can shoot the next bubble.   
  Try to get apples to reduce this interval for a while.
 
@@ -19,8 +20,8 @@ You need to wait for some time before you can shoot the next bubble.
 
 ## Lives
 
-Your hp is 64.  
-You will lose a life when hp becomes 0.  
+Your HP is 64.  
+You will lose a life when HP becomes 0.  
 You have only 3 lives.
 
 Check the number of lives left by looking at the hearts on the upper right of the window.  
@@ -35,7 +36,7 @@ If you revive, you will be invincible for 8 seconds.
 They are blue and small, and they walk up and down in the window.
 
  You can kill them with just one shot.  
- If you touch them, you will lose 16 hp.  
+ If you touch them, you will lose 16 HP.  
  Each of them gives you 10 scores.
 
 They will run away when the boss comes.  
@@ -44,8 +45,8 @@ They will run away when the boss comes.
 
 They are big and strong.
 
-They walk horizontally all the time, even when you are fighting the boss or when you are trying to open a chest after you defeated the boss.  
-You need to kill them with 4 bubbles for 50 scores and you will lose 16 hp if you touch them.
+They walk horizontally all the time, even when you are fighting the boss or when you are trying to open a chest after you defeat the boss.  
+You need to kill them with 4 bubbles for 50 scores, and you will lose 16 HP if you touch them.
 
 ### <u>Boss</u>
 
@@ -53,8 +54,8 @@ The boss is a violent alligator.
 
 He will come out every time the level goes up.  
 He will try to shoot bullets at you.  
-You will lose 1 hp if you are hit by his bullet, and your hp will reduce constantly when you touch him, so be careful!  
-His hp is 32, and defeating him gives you 100 scores!
+You will lose 1 HP if you are hit by his bullet, and your HP will reduce constantly when you touch him, so be careful!  
+His HP is 32, and defeating him gives you 100 scores!
 
 ---
 
@@ -105,7 +106,7 @@ After Level 5, you are already a strong player. Try to break your personal recor
 
 Every 1 to 2 minutes, there will be 20 seconds of night time.  
 During night, the enemies in the window will fall asleep, and you can crash them directly!  
-However, your hp will be reduced constantly if you touch the food at night!
+However, your HP will be reduced constantly if you touch the food at night!
 
 ---
 
